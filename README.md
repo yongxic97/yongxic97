@@ -3,7 +3,7 @@
   - Soft Robotics
   - Motion Planning
   - Reinforcement Learning
-- 🌱 I’m currently learning fundamentals of robotics
+- 🌱 I’m currently learning GAN and IRL
 - 📫 How to reach me ...
 
 <!---

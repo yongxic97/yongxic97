@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Yongxi Cao
 - 👀 I’m interested in 
   - Soft Robotics
-  - Motion Planning
-  - Reinforcement Learning
+  - Social-aware Motion Planning
+  - Reinforcement Learning (IRL,DRL)
+  - Game theory
 - 🌱 I’m currently learning GAN and IRL
 - 📫 How to reach me ...
 -   yongxi.cao.2000@gmail.com

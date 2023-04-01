@@ -3,6 +3,7 @@
   - Soft Robotics
   - Social-aware Motion Planning
   - Reinforcement Learning (IRL,DRL)
+  - Deep Learning (in particular generative models)
   - Game theory
 - 🌱 I’m currently learning GAN and IRL
 - 📫 How to reach me ...

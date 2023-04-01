@@ -2,8 +2,8 @@
 - 👀 I’m interested in 
   - Soft Robotics
   - Social-aware Motion Planning
-  - Reinforcement Learning (IRL,DRL)
-  - Deep Learning (in particular generative models)
+  - Reinforcement Learning (IRL,DRL) in Robotics
+  - Deep Learning (in particular generative models) in Robotics
   - Game theory
 - 🌱 I’m currently learning GAN and IRL
 - 📫 How to reach me ...

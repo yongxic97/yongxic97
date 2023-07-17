@@ -5,7 +5,9 @@
   - Reinforcement Learning (IRL,DRL) in Robotics
   - Deep Learning (in particular generative models) in Robotics
   - Game theory
-- 🌱 I’m currently working on Transformer-based vehicle trajectory behavior prediction
+- 🌱 I’m currently working on
+  - Transformer-based vehicle trajectory behavior prediction (Master thesis)
+  - 
 - 📫 How to reach me ...
   -   yongxi.cao.2000@gmail.com
 
